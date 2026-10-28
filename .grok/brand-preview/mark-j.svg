@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fuellee">
+  <rect width="64" height="64" rx="18" fill="#15303F"/>
+  <path d="M 13.82 28.24 A 20 20 0 0 1 47.66 30.61" fill="none" stroke="#0B7361" stroke-width="5.6" stroke-linecap="round"/>
+  <path d="M 42.73 19.18 L 33.5 31 L 41.42 40.67 A 10 10 0 1 1 25.8 40.85 L 33.5 31" fill="none" stroke="#D8830B" stroke-width="6.6" stroke-linecap="round" stroke-linejoin="round"/>
+  
+</svg>

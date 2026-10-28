@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/login",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fuellee — private fuel and service log",
+      "hasCanvas": false,
+      "bodyTextLen": 453,
+      "bodyTextHash": "1469e8cb429a1b1836abd7bf4a7e9f90af2225d0aa49c5bf58d08b0d0fd59abc",
+      "bodyTextPrefix": "Fuellee Features Pricing Sign in FREE ACCOUNT Register, then the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fuellee — private fuel and service log",
+      "hasCanvas": false,
+      "bodyTextLen": 436,
+      "bodyTextHash": "2efa23785ec2942e8072ddc5c629778d60502f5de3f44d9c7507cd7caa3de209",
+      "bodyTextPrefix": "Fuellee Sign in FREE ACCOUNT Register, then the log is yours. Em",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/login-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fuellee — private fuel and service log",
+      "hasCanvas": false,
+      "bodyTextLen": 2558,
+      "bodyTextHash": "64dc76ef74539ce56aed4076af0eeef06bf3f4997eafe20cd9053b77cb65c9f6",
+      "bodyTextPrefix": "Fuellee Features Pricing Sign in FUEL · SERVICE · ACCOUNT A quie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fuellee — private fuel and service log",
+      "hasCanvas": false,
+      "bodyTextLen": 2541,
+      "bodyTextHash": "d9abf613369f01f6a7a0abcb348570fdb815d2e1fc47377c8b625d2df5164a6a",
+      "bodyTextPrefix": "Fuellee Sign in FUEL · SERVICE · ACCOUNT A quiet log for the tri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
